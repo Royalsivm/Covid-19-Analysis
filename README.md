@@ -28,6 +28,8 @@ The analysis has revealed several key findings, including:
 ## Dashboard
 
 A live dashboard showcasing the visualizations and analysis can be accessed 
+![Screenshot 2024-01-29 192646](https://github.com/Royalsivm/Covid-19-Analysis/assets/153700930/1758069c-5544-4c4c-81db-74fb9b3f5163)
+
 
 
 ## Feedback
